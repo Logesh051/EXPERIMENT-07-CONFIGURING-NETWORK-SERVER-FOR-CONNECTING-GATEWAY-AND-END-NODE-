@@ -48,10 +48,10 @@ To set APP Key
 
 ## OUTPUT 
 Gateway
-![Screenshot 2024-10-14 090026](https://github.com/user-attachments/assets/6bbe4f02-94e6-4a6a-a2ab-080683b74b4e)
+![11](https://github.com/user-attachments/assets/497b018a-dacc-4530-acb4-8cb1cd7e4bb6)
 
 Channel
-![Screenshot 2024-10-14 090108](https://github.com/user-attachments/assets/1aadaf38-ea27-44ca-9eff-a80a093dfe13)
+![12](https://github.com/user-attachments/assets/c01c76b9-e8aa-4cc7-acd5-f57a79ed0aec)
 
 End device
 ![Screenshot 2024-10-14 090151](https://github.com/user-attachments/assets/5d05738b-87f5-45b4-8643-00cfbeacf658)
